@@ -1,2 +1,0 @@
-# .github
-Arthur Org page
